@@ -1,0 +1,60 @@
+.inbox{
+    width: 650px;
+    background: #ffffff00;
+    border-radius: 10px;
+    overflow: hidden;
+    padding: 77px 55px 33px;
+    -moz-box-shadow: 0 5px 10px 0 rgba(0,0,0,.1);
+    -webkit-box-shadow: 0 5px 99px 0 rgba(0,0,0,.1);
+    -o-box-shadow: 0 5px 10px 0 rgba(0,0,0,.1);
+    -ms-box-shadow: 0 5px 10px 0 rgba(0,0,0,.1);
+    border: 1px dashed rgba(128, 128, 128, 0.208);
+}
+.bg-shadow{
+    border: 3px solid grey;
+	background-color: rgba(0, 204, 255, 0.073);
+}
+.inbox h2{
+	background: #ffd3a121;
+	text-align: center;
+	display: block;
+	padding: 10px 10px;
+	color: darkslategrey;
+	margin: 60px;
+	border: dashed 1px rgba(245, 222, 179, 0.308);
+}
+.inbox h3{
+	text-align: center;
+	display: block;
+	margin-bottom: auto
+}
+.location-c{
+    width: 100%;
+    min-height: 10vh;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    padding: 15px;
+}
+.m-30{
+	margin-top: 0px;
+	margin-bottom: 30px;
+}
+.card-text{
+    height: 120px;
+    background: rgb(255, 255, 255);
+    padding: 10px;
+    border: 1px dashed grey ;
+}
+.tag-btn
+{
+    padding: 0px 8px;
+    background: rgb(255, 255, 255);
+    border-radius: 20px;
+    text-align: center;
+}
